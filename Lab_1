@@ -1,0 +1,28 @@
+Assignment 1. Create a simple Webpage using basic HTML elements to understand the structure of an HTML document. 
+Instructions: 
+Task1: HTML Document Setup: 
+Open any editor and create an HTML File name Introduction.html 
+Task 2: Set DocType: 
+Add the <!DOCTYPE html> declaration at the beginning of the document. 
+Task 3: Set Language: 
+Add <Head> tag 
+Set the document's language to English (<html lang="en">). 
+Close Head tag using </Head> 
+Task 4: Add Page Title: 
+Add a <Head> and after that add <Title> tag 
+Set the title of the Web page to "My First Webpage." 
+Task 5: 
+Add <Body> tag and add hyperlink. 
+Add a header <h1>Welcome to My Webpage</h1> 
+Create a hyperlink (<a>) with the text "Visit Anudip Page" that links to the Website https://www.anudip.org 
+Task 5: Close Body Tag.. Add a closing </html> tag to end the HTML document
+
+Assignment 2. Create a simple Webpage using an online HTML editor. 
+Task1: Visit https://www.w3schools.com/Html/html_editor.asp 
+Click on “Try it Yourself”. It will take you to 
+https://www.w3schools.com/Html/tryit.asp?filename=tryhtml_editor 
+Task2: Add page title “Welcome to my Web Page” 
+Task3: Add heading as Your Name. (Use <H1> <Your Name> <H1> tag).
+Task 4: Add a paragraph to introduce yourself describing your education and technical expertise. 
+Example: <p>Hi , I am …..</p> 
+Task5 : Run the HTML code.
